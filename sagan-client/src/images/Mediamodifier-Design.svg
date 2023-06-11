@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1080" height="1080" viewBox="0 0 1080 1080" xml:space="preserve">
+<desc>Created with Fabric.js 4.2.0</desc>
+<defs>
+</defs>
+<g transform="matrix(1 0 0 1 540 540)" id="3d09171d-3041-44ca-97d6-9b5bf3f70ec7"  >
+<rect style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(255,255,255); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-540" y="-540" rx="0" ry="0" width="1080" height="1080" />
+</g>
+<g transform="matrix(1 0 0 1 540 540)" id="64e2df6a-d32b-4c5a-8955-c5f1927050a0"  >
+</g>
+<g transform="matrix(4.67 0 0 4.67 335.36 334.35)" id="e2c4d5cb-9f76-4873-9072-d9528312d4df"  >
+<rect style="stroke: rgb(248,105,57); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(207,212,217); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" />
+</g>
+<g transform="matrix(4.67 0 0 4.67 742.87 340.09)" id="e2c4d5cb-9f76-4873-9072-d9528312d4df"  >
+<rect style="stroke: rgb(248,105,57); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(207,212,217); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" />
+</g>
+<g transform="matrix(4.67 0 0 4.67 741.85 726.81)" id="e2c4d5cb-9f76-4873-9072-d9528312d4df"  >
+<rect style="stroke: rgb(248,105,57); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(207,212,217); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" />
+</g>
+<g transform="matrix(4.67 0 0 4.67 335.99 737.81)" id="e2c4d5cb-9f76-4873-9072-d9528312d4df"  >
+<rect style="stroke: rgb(248,105,57); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(207,212,217); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" />
+</g>
+<g transform="matrix(7.04 0 0 7.04 540 460.63)" id="e2c4d5cb-9f76-4873-9072-d9528312d4df"  >
+<rect style="stroke: rgb(248,105,57); stroke-width: 3; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(213,215,219); fill-rule: nonzero; opacity: 1;" vector-effect="non-scaling-stroke"  x="-33.085" y="-33.085" rx="0" ry="0" width="66.17" height="66.17" />
+</g>
+<g transform="matrix(3.85 0 0 3.85 540 466.82)" style="" id="15c5f056-1cdf-4dc3-958d-fffb7fdcd208"  >
+		<rect fill="#D5D7DB" x="-58.32" y="-55.93" width="116.64" height="111.87"></rect>
+		<text xml:space="preserve" font-family="Raleway" font-size="99" font-style="normal" font-weight="900" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(19,38,92); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-37.32" y="31.1" >N</tspan></text>
+</g>
+<g transform="matrix(1 0 0 1 540 787.63)" style="filter: url(#SVGID_1252);" id="d115f830-91d5-4e1e-997e-f9004a382c6a"  >
+<filter id="SVGID_1252" y="-20%" height="140%" x="-20%" width="140%" >
+	<feGaussianBlur in="SourceAlpha" stdDeviation="0"></feGaussianBlur>
+	<feOffset dx="0" dy="0" result="oBlur" ></feOffset>
+	<feFlood flood-color="rgb(0,0,0)" flood-opacity="1"/>
+	<feComposite in2="oBlur" operator="in" />
+	<feMerge>
+		<feMergeNode></feMergeNode>
+		<feMergeNode in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+		<rect fill="#F86939" x="-292.8" y="-45.2" width="585.6" height="90.4"></rect>
+		<text xml:space="preserve" font-family="Alegreya" font-size="80" font-style="normal" font-weight="700" style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(19,38,92); fill-rule: nonzero; opacity: 1; white-space: pre;" ><tspan x="-265.48" y="25.13" >N</tspan><tspan x="-178.04" y="25.13" >S</tspan><tspan x="-105.72" y="25.13" >Q</tspan><tspan x="-22.12" y="25.13" >U</tspan><tspan x="58.12" y="25.13" >A</tspan><tspan x="137.32" y="25.13" >R</tspan><tspan x="217.8" y="25.13" >E</tspan></text>
+</g>
+</svg>
